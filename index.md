@@ -5,7 +5,9 @@ title:  Welcome
 
 Follow along on Twitter [@manuscriptsnews](https://twitter.com/manuscriptsnews) for the latest updates.
 
-# Mundi Mark - All About Markup & Markdown
+# Mundi Mark
+
+_All About Markup & Markdown_
 
 
 ## Markdown Tools
@@ -33,10 +35,7 @@ Follow along on Twitter [@manuscriptsnews](https://twitter.com/manuscriptsnews) 
 
 - [**Markdown Quick References / Cheat Sheets**](https://github.com/mundimark/quickrefs)
 - [**Markdown vs LaTeX / TeX Markup**](https://github.com/mundimark/markdown-vs-latex)
-- [**Why Markdown?](https://github.com/mundimark/why-markdown)
-
-
-### Markdown Books
+- [**Why Markdown?**](https://github.com/mundimark/why-markdown)
 
 Up & Down Press
 
